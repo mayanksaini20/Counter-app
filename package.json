@@ -2,9 +2,7 @@
   "name": "counter-app",
   "version": "1.0.0",
   "description": "Counter-app for understanding the basics of javascript",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "vite",
     "build": "vite build",
     "preview": "vite preview"
