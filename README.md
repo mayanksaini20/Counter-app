@@ -1,2 +1,2 @@
-This is a Basic Javascript project .
+This is a Basic Javascript project.
 Implementing the basics.
