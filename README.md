@@ -4,7 +4,7 @@ A simple Counter App built using **HTML**, **CSS**, **JavaScript**, and **Tailwi
 
 ## Demo
 
-[Counter App Demo](#)
+[Counter App Demo](https://counter-app-mayanksaini.netlify.app/)
 
 ## Features
 
